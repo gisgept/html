@@ -1,0 +1,76 @@
+body {
+    font-family: 'Mukta', sans-serif;
+}
+.r {
+      position: absolute;
+      left: 100px;
+    }
+
+.menu {
+      position: absolute;
+      right: 100px;
+    }
+
+#zag {
+      position: absolute;
+      z-index: 2;
+      right: 500px;
+      left: 500px;
+      margin-top: 70px;
+
+    }
+
+h1 {
+      color: #10CAB7;
+      font-family: 'Hind Siliguri', sans-serif;
+      font-family: 'Mukta', sans-serif;
+      
+    }
+
+
+#im {
+      position: absolute;
+      top: 125px;
+      
+      display: inline;
+    }
+
+.po {
+      position: relative;
+      padding-top: 780px;
+      left: 150px;
+      width: 350px;
+      height: 350px;
+      display: inline-block;
+    }
+
+.te {
+      position: relative;
+      left: 75px;
+
+    }
+
+.op {
+      position: relative;
+      display: inline-block;
+      width: 350px;
+      height: 350px;
+      padding-top: 730px;
+      right: 0px;
+      left: 550px;
+    }
+
+.ro {
+    position: relative;
+      padding-top: 780px;
+      left: 150px;
+      width: 350px;
+      height: 350px;
+      display: inline-block;
+    }
+
+
+.et {
+    position: relative;
+    left: 75px;
+}
